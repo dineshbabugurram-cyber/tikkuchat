@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tikkuchat.com/sitemap.xml
