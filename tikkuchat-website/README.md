@@ -10,3 +10,5 @@ Static site (no build step). Output directory: `public`. Forms: `functions/api/c
 `STAGING=1 python3 build.py` adds noindex and blocks crawlers. Rebuild without it for launch.
 ## Regenerate pages
 Edit build.py (copy, services, industries) and run `python3 build.py`.
+updated
+
