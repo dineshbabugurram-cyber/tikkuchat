@@ -1,1 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://tikkuchat.com/</loc></url><url><loc>https://tikkuchat.com/about/</loc></url><url><loc>https://tikkuchat.com/awareness/</loc></url><url><loc>https://tikkuchat.com/contact/</loc></url><url><loc>https://tikkuchat.com/industries/</loc></url><url><loc>https://tikkuchat.com/insights/</loc></url><url><loc>https://tikkuchat.com/legal/cookies/</loc></url><url><loc>https://tikkuchat.com/legal/privacy/</loc></url><url><loc>https://tikkuchat.com/legal/terms/</loc></url><url><loc>https://tikkuchat.com/services/</loc></url><url><loc>https://tikkuchat.com/services/cloud-security/</loc></url><url><loc>https://tikkuchat.com/services/consulting/</loc></url><url><loc>https://tikkuchat.com/services/defender-xdr/</loc></url><url><loc>https://tikkuchat.com/services/incident-response/</loc></url><url><loc>https://tikkuchat.com/services/sentinel/</loc></url><url><loc>https://tikkuchat.com/services/siem/</loc></url><url><loc>https://tikkuchat.com/services/soc/</loc></url><url><loc>https://tikkuchat.com/services/threat-detection/</loc></url><url><loc>https://tikkuchat.com/services/vulnerability-management/</loc></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://tikkuchat.com/</loc></url>
+  <url><loc>https://tikkuchat.com/about/</loc></url>
+  <url><loc>https://tikkuchat.com/awareness/</loc></url>
+  <url><loc>https://tikkuchat.com/contact/</loc></url>
+  <url><loc>https://tikkuchat.com/industries/</loc></url>
+  <url><loc>https://tikkuchat.com/insights/</loc></url>
+  <url><loc>https://tikkuchat.com/legal/cookies/</loc></url>
+  <url><loc>https://tikkuchat.com/legal/privacy/</loc></url>
+  <url><loc>https://tikkuchat.com/legal/terms/</loc></url>
+  <url><loc>https://tikkuchat.com/services/</loc></url>
+  <url><loc>https://tikkuchat.com/services/cloud-security/</loc></url>
+  <url><loc>https://tikkuchat.com/services/consulting/</loc></url>
+  <url><loc>https://tikkuchat.com/services/defender-xdr/</loc></url>
+  <url><loc>https://tikkuchat.com/services/incident-response/</loc></url>
+  <url><loc>https://tikkuchat.com/services/sentinel/</loc></url>
+  <url><loc>https://tikkuchat.com/services/siem/</loc></url>
+  <url><loc>https://tikkuchat.com/services/soc/</loc></url>
+  <url><loc>https://tikkuchat.com/services/threat-detection/</loc></url>
+  <url><loc>https://tikkuchat.com/services/vulnerability-management/</loc></url>
+</urlset>
